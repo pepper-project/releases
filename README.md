@@ -8,35 +8,33 @@ Consult the README in each tarball for more information on setting up your machi
 
 This repository currently includes the following releases:
 
-### Pepper ###
+### pepper.tar.gz ###
 
 Srinath Setty, Richard McPherson, Andrew J. Blumberg, and Michael Walfish. "Making argument
 systems for outsourced computation practical (sometimes)." NDSS 2012.
 
 ( [pdf](http://www.cs.utexas.edu/pepper/pepper-ndss12.pdf) )
 
-### Ginger ###
+### ginger-allspice.tar.gz ###
 
 Srinath Setty, Victor Vu, Nikhil Panpalia, Benjamin Braun, Andrew J. Blumberg, and Michael Walfish.
 "Taking proof-based verified computation a few steps closer to practicality." USENIX Security 2012.
 
 ( [pdf](http://www.cs.utexas.edu/pepper/ginger-usec12-v2.pdf) | [extended version](http://eprint.iacr.org/2012/598) )
 
-### Zaatar ###
+Victor Vu, Srinath Setty, Andrew J. Blumberg, and Michael Walfish. "A hybrid architecture for
+interactive verifiable computation." Oakland 2013.
+
+( [pdf](http://www.cs.utexas.edu/pepper/allspice-oakland13.pdf) )
+
+### zaatar.tar.gz ###
 
 Srinath Setty, Benjamin Vraun, Victor Vu, Andrew J. Blumberg, Bryan Parno, and Michael Walfish.
 "Resolving the conflict between generality and plausibility in verified computation." EuroSys 2013.
 
 ( [pdf](http://www.cs.utexas.edu/pepper/zaatar-eurosys13.pdf) | [extended version](http://www.cs.utexas.edu/pepper/zaatar-eurosys13.pdf) )
 
-### Allspice ###
-
-Victor Vu, Srinath Setty, Andrew J. Blumberg, and Michael Walfish. "A hybrid architecture for
-interactive verifiable computation." Oakland 2013.
-
-( [pdf](http://www.cs.utexas.edu/pepper/allspice-oakland13.pdf) )
-
-### Pantry ###
+### pantry.tar.gz, pantry-enhanced.tar.gz ###
 
 Benjamin Braun, Ariel J. Feldman, Zuocheng Ren, Srinath Setty, Andrew J. Blumberg, and Michael
 Walfish. "Verifying computations with state." SOSP 2013.
@@ -46,7 +44,7 @@ Walfish. "Verifying computations with state." SOSP 2013.
 **Note:** The enhanced Pantry release includes additional refinements and optimizations. The
 results of these optimizations will soon be reported in an update to the extended version.
 
-### Buffet ###
+### buffet.tar.gz ###
 
 Riad S. Wahby, Srinath Setty, Zuocheng Ren, Andrew J. Blumberg, and Michael Walfish.
 "Efficient RAM and control flow in verifiable outsourced computation."
