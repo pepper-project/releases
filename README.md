@@ -47,6 +47,6 @@ results of these optimizations will soon be reported in an update to the extende
 ### buffet.tar.gz ###
 
 Riad S. Wahby, Srinath Setty, Zuocheng Ren, Andrew J. Blumberg, and Michael Walfish.
-"Efficient RAM and control flow in verifiable outsourced computation."
+"Efficient RAM and control flow in verifiable outsourced computation." To appear in Network &amp; Distributed System Security Symposium, [NDSS 2015](http://www.internetsociety.org/events/ndss-symposium-2015), February 2015. Preprint available as [Cryptology ePrint](https://eprint.iacr.org/) 2014/674.
 
-*ePrint forthcoming*
+( [pdf](https://eprint.iacr.org/2014/674) )
