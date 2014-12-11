@@ -6,7 +6,7 @@ This repository contains snapshots of the Pepper system corresponding to previou
 These snapshots all rely on [third party software](https://github.com/pepper-project/thirdparty).
 Consult the README in each tarball for more information on setting up your machine.
 
-This repository currently includes the following releases:
+This file maps filenames to implemented systems. For the reverse mapping, see [our website](http://www.pepper-project.org/source.htm).
 
 ### pepper.tar.gz ###
 
